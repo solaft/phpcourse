@@ -66,4 +66,3 @@ if ($a>0 && $b>0)
 <p>content</p>
 <?php 
 echo date('Y');
-
