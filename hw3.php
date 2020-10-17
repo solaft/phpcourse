@@ -36,6 +36,3 @@ function replace($word) {
 };
 replace("фраза с пробелами");
 ?>
-
- 
- 
